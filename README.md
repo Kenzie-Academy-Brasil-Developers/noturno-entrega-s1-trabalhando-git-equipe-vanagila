@@ -38,17 +38,18 @@ Depois de criado o repo e os Branches, cada membro da equipe deve copiar o bloco
 2. Um pouco sobre você;
 3. Comentário sobre o seu relacionamento com a TI;
 ```
+
 Cada entrada deverá ter ao menos:
 
 1. O seu nome;
 2. Pequeno trecho falando sore você;
 3. Comentário sobre o seu relacionamento com a TI.
 
-__O uso de Branches é obgrigatório.__
+**O uso de Branches é obgrigatório.**
 
 ### Finalizando o Projeto
 
-Depois de finalizar as alterações, todos os membros devem subir as mudanças do seu Branch local para o Branch remoto usando um ``push``.
+Depois de finalizar as alterações, todos os membros devem subir as mudanças do seu Branch local para o Branch remoto usando um `push`.
 
 ```bash
 git push -u origin
@@ -62,3 +63,9 @@ git push origin
 ```
 
 Este código pode gerar conflitos. Se acontecer, tente resolver com seus colegas e caso não seja possível, chame seu Facilitador.
+
+## Fato sobre <Vanágila>
+
+1. Vanágila Xavier Rodrigues;
+2. Tenho 23 anos, sou Cearense, gosto de um monte de coisas ao mesmo tempo, sério;
+3. Meu relacionamento com a TI foi por muitos anos repleto de vai e vens. Deixou de ser um passatempo em 2014 quando participei de um projeto profissionalizante estadual, onde aprendi de hardware e software, inclusive linux, mas como a prática é a melhor memória, e fui para outros caminhos acadêmicos ao terminar o ensino médio, a maior parte do conhecimento criado àquela época se foi. Nos últimos anos tenho tentado encontrar satisfação no que faço e lugar no mundo, acho que encontrei aqui.;
